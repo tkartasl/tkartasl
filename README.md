@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomi
 - 👀 Currently studying at Hive Helsinki coding school.
-- 🌱 I'm currently learning to code in C and later on in my studies will switch to C++.  
+- 🌱 Learned programming with C and C++. 
 - 📫 tomi.kartaslammi@saunalahti.fi
 - ⚡ Fun fact: I'm gonna update this readme at some point.
 
