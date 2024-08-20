@@ -2,7 +2,8 @@
 - 👀 Currently studying at Hive Helsinki coding school.
 - 🌱 Learning programming with C and C++. 
 - 📫 tomi.kartaslammi@saunalahti.fi
-- ⚡ Fun fact: I'm gonna update this readme at some point.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apitkartasl=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 tkartasl/tkartasl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
