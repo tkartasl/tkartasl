@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomi
-- 👀 Currently studying at Hive Helsinki coding school.
+- 👀 Currently studying software development at Hive Helsinki coding school.
 - 📫 tomi.kartaslammi@saunalahti.fi
 
 
