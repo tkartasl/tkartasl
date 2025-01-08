@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Tomi
 - 👀 Currently studying software development at Hive Helsinki coding school.
+- 🚀 Interested in back-end development
 - 📫 tomi.kartaslammi@saunalahti.fi
 
 
