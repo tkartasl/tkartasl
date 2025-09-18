@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomi
-- 👀 Currently studying software development at Hive Helsinki coding school.
-- 🚀 Interested in backend development
+- 👀 42 Alumni from Hive Helsinki.
+- 🚀 Interested in fullstack & backend development
 - 📫 tomi.kartaslammi@saunalahti.fi
 
 
