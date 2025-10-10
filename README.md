@@ -8,7 +8,7 @@
 
 *Tech I have worked with*
 -----
-[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,kotlin,js,python,nodejs,react,gradle,ktor,docker,linux,bash,vite)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=kotlin,js,ts,go,c,cpp,python,nodejs,react,gradle,ktor,docker,linux,bash,vite)](https://skillicons.dev)
 <!---
 tkartasl/tkartasl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
